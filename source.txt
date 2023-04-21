@@ -1,0 +1,15 @@
+Integer $Alpha(Integer $a, Integer $b) => {
+    Integer $x;
+    Integer $Beta(Integer $a, Integer $b) => {
+        Integer $x;
+        $x => $a*10 + $b*2;
+        Return $x;
+    };
+
+    $x => ($a+$b)*2;
+    :$Beta(5, 10);
+    Return $x;
+};
+
+Integer $w => :$Alpha(3+5, 7);
+:$WriteFloat($w); // Should write out 30.0

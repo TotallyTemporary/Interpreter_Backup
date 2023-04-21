@@ -1,0 +1,36 @@
+Date : 2021-11-28 14:46:38
+Directory : c:\Users\paavo\Desktop\interpreter\interpreter
+Total : 12 files,  535 codes, 39 comments, 207 blanks, all 781 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         12 |        535 |         39 |        207 |        781 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                       | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                          |         12 |        535 |         39 |        207 |        781 |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                   | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\paavo\Desktop\interpreter\interpreter\CallStack.java              | Java     |         61 |          1 |         24 |         86 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\CustomRuntimeException.java | Java     |          6 |          0 |          4 |         10 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\IO.java                     | Java     |         11 |          0 |          7 |         18 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\Interpreter.java            | Java     |         18 |          0 |          9 |         27 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\InterpreterUtil.java        | Java     |        135 |         15 |         41 |        191 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\ReturnEvent.java            | Java     |          9 |          3 |          6 |         18 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\ScopeMover.java             | Java     |         45 |          1 |         20 |         66 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\ScopedSymbolTable.java      | Java     |        194 |         17 |         73 |        284 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\SemanticAnalyzer.java       | Java     |         13 |          0 |          7 |         20 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\SemanticsException.java     | Java     |          6 |          0 |          4 |         10 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\Symbol.java                 | Java     |         25 |          0 |          9 |         34 |
+| c:\Users\paavo\Desktop\interpreter\interpreter\SymbolType.java             | Java     |         12 |          2 |          3 |         17 |
+| Total                                                                      |          |        535 |         39 |        207 |        781 |
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
